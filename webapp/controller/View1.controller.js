@@ -6,6 +6,7 @@ sap.ui.define([
 	return Controller.extend("Practice.UI5Practice.controller.View1", {
 		onInit: function () {
 //first 
+//second 
 		}
 	});
 });
